@@ -8,3 +8,5 @@ User tweets with mention and hashtag and secret code, with product they desire i
 The system checks if the mention, hashtag and emojis tweeted are correct, and if the user hasn't used the system within the last 6 months. 
 If these checks are passed, the system passes the responding keypad entries to the vending machine's keypad and the desired product is vended. A tweet is then sent to the user thanking them.
 If a check is not passed, the system tweets the user with the error (ie. Incorrect Emoji Code)
+
+vender.py script is run on startup in /etc/xdg/lxsession/LXDE/autostart

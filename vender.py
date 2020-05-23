@@ -4,10 +4,10 @@
 # Twitter API keys need to be changed to King Price's details        #
 ######################################################################
 
-APP_KEY = 'is16b2OHzM5mr00DlbHEdn7Mi' #'H2b7mblHl6XalAza8NU2IjB3T'
-APP_SECRET = 'xkHhA0r76xytJl7A2wm16MIHIgXYYFsZkhQwGQpICPTsmhl5Ve' #'B3Bn2wE87dBefXg88XIHwNA2CQVx5zsnbPkOqytfCoeQTwKx1u'
-OAUTH_TOKEN =  '848936353-bxcxk3uVgMj8GqIOQqLYLZ9JhhproyydLDXh5Kwj'  #'1048803885706567681-6PaZQmk00dlFNYmDZjVAUi0GlwOopS'
-OAUTH_TOKEN_SECRET = 'o81vSmzwxsMYDO3ieUvHBMc7dRdxRjGm0dUtaaK6xZMSY'  #'LEnL3xaeqxRAvZPxcyAysKCim3Y2QkB818AP5Uwf3gV1Y'
+APP_KEY = 
+APP_SECRET = 
+OAUTH_TOKEN =  
+OAUTH_TOKEN_SECRET = 
 
 import time
 import RPi.GPIO as GPIO
